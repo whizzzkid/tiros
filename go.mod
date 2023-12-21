@@ -10,7 +10,7 @@ require (
 	github.com/golang-migrate/migrate/v4 v4.15.2
 	github.com/ipfs/go-ipfs-api v0.3.1-0.20230115111907-7f63cbcb569f
 	github.com/lib/pq v1.10.8
-	github.com/libp2p/go-libp2p v0.27.1
+	github.com/libp2p/go-libp2p v0.27.8
 	github.com/multiformats/go-multiaddr v0.9.0
 	github.com/prometheus/client_golang v1.15.0
 	github.com/sirupsen/logrus v1.9.0
